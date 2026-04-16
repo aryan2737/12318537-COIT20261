@@ -95,7 +95,7 @@ bash
 To configure default gateways and enable communication between different subnets
 
 ---
-
+Default-Gateway-12318537.gns3project
 ## 🌐 Network Topology
 
 * Subnet 1: Host A, Host B → Router 1 (via Switch 1)
