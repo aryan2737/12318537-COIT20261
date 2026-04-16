@@ -69,12 +69,14 @@ This clearly showed that VLANs isolate traffic, even though everything is connec
 To allow devices in different VLANs to communicate using a router.
 
 ---
+## my project is:
+![week05 project](/Vlan-Basics-12318537.gns3project)
 
 ## What I Did
 
 I copied the previous project and renamed it:
 
-`Vlan-Router-12313597`
+`Vlan-Router-12318537`
 
 Then I added a Linux router and connected it to the switch using port **eth0**.
 
@@ -98,7 +100,12 @@ To allow multiple VLANs to pass through the same link to the router, I configure
 ```
 ovs-vsctl set port eth0 trunks=10,20
 ```
-![ovs-vsctl](/ovs-vsctl_12313597_week5.png)
+![ovs-vsctl](images/switch.png)
+
+![ovs-vsctl](images/switch.png)
+
+
+
 
 ---
 
