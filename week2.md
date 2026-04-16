@@ -149,7 +149,7 @@ ping -c 5 -i 0.5 -s 1000 10.10.1.97
 
 #### Output Screenshot
 
-![Ping Options](images/ping-Basics-12318537-options.p)
+![Ping Options](images/ping-Basics-12318537-options.png)
 
 ---
 
