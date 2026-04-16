@@ -52,13 +52,13 @@ This clearly showed that VLANs isolate traffic, even though everything is connec
 
 ## Network Topology
 
-![Network](/vlan_12313597_week5.png)
+![Network](/Vlan-Basics-12318537-network.png)
 
 ---
 
 ## Switch Configuration Output
 
-![Ports](/trunks_12313597_week5.png)
+![Ports](/Vlan-Basics-12318537-ports.png)
 
 ---
 
