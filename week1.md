@@ -78,7 +78,7 @@ The output showed that the `eth0` interface was correctly assigned the IP addres
 
 ### files
 
-![week01 project](/Vlan-Basics-12318537.gns3project)
+![week01 project](/GNS3-Intro-Solution1.gns3project)
 
 
 ### Network Topology
