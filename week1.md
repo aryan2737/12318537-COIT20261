@@ -76,6 +76,9 @@ The output showed that the `eth0` interface was correctly assigned the IP addres
 
 ## Screenshots
 
+### files
+
+
 ### Network Topology
 
 ![Network Screenshot](images/GNS-Intro-12318537-network.png)
