@@ -21,7 +21,7 @@ To configure VLANs on a switch and observe how they affect communication between
 
 First, I created a project called:
 
-`Vlan-Basics-12313597`
+`Vlan-Basics-12318537`
 
 Then I added:
 
@@ -52,13 +52,13 @@ This clearly showed that VLANs isolate traffic, even though everything is connec
 
 ## Network Topology
 
-![Network](/Vlan-Basics-12318537-network.png)
+![Network Screenshot](images/Vlan-Basics-12318537-network.png)
 
 ---
 
 ## Switch Configuration Output
 
-![Ports](/Vlan-Basics-12318537-ports.png)
+![Port Screenshot](images/Vlan-Basics-12318537-ports.png)
 
 ---
 
