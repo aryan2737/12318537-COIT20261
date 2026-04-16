@@ -8,7 +8,7 @@
 * 
 ## Task 1: View Routing Tables
 
-![week04 project](/Vlan-Basics-12318537.gns3project)
+![week04 project](/View-Routes-12318537.gns3project)
 
 ## Network Topology
 
@@ -209,6 +209,7 @@ This confirms:
 
 # Task 2: Dynamic Routing with OSPF
 
+![week04 project](/OSPF-Basics-Template.gns3project)
 
 ## Network
 
