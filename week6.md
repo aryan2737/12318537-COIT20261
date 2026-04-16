@@ -84,9 +84,7 @@ bash
 
 ## 📸 Screenshots
 
-/images/ARP-Basics-HostA-Table1.png
-/images/ARP-Basics-HostA-Table2.png
-/images/ARP-Basics-HostA-Table3.png
+![Network Screenshot](images/ARP-Basics-12318537-HostA-Table2.png)
 
 ---
 
