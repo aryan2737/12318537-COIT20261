@@ -1,6 +1,7 @@
 # 📡 Week 06 Tutorial Report
 
-*Student ID:* <your-student-id>
+*Student ID:* 12318537
+  Patel AryanKumar
 *Course:* Computer Networks
 
 ---
