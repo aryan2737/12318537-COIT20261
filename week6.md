@@ -1,9 +1,9 @@
 # 📡 Week 06 Tutorial Report
 
-*Student ID:* 12318537
-  Patel AryanKumar
-*Course:* Computer Networks
-
+* **Name:** Patel Aryankumar ramkrushnbhai
+* **Student ID:** 1238537
+* **Unit:** COIT20261
+* **Campus:** MELBOURNE
 ---
 
 # 🔹 Task 1: Resolving IP Addresses to Hardware Addresses (ARP)
