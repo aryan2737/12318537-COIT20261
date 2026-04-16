@@ -8,21 +8,15 @@
 * 
 ## Task 1: View Routing Tables
 
-### Goal
 
-The purpose of this task is to learn:
-
-* How IP addressing works across multiple subnets
-* How a router forwards packets between networks
-* How to view and understand routing tables
-* How to test communication between hosts using ping
-
----
 
 ## Network Topology
 
 You need to build a small network in GNS3 with:
 
+![Network Screenshot](images/View-Routes-12318537-network.png)
+![Route Show](images/week4Route.png)
+week4Route.png
 * 3 Linux Hosts
 * 1 Linux Router
 * 1 Ethernet Switch
@@ -155,10 +149,10 @@ This means forwarding is enabled.
 ## Viewing Routing Tables
 
 To see the routing table on a Linux device:
-
+![Route Show](images/week4Route.png)
 ```text
 ip route show
-```
+
 
 ### Example Routing Table on Host1
 
@@ -215,16 +209,10 @@ This confirms:
 
 # Task 2: Dynamic Routing with OSPF
 
-## Goal
 
-This task demonstrates:
+## Network
 
-* How routers automatically exchange routing information
-* How OSPF discovers neighbour routers
-* How routers choose the best path
-* How routing changes when a link fails
-
----
+![Network Show](images/week4task2network.png)
 
 ## OSPF Overview
 
@@ -243,7 +231,7 @@ Unlike static routing, you do not manually enter every route.
 ## FRR Routers
 
 The routers in the template use FRRouting (FRR).
-
+![Route Show](images/week4task2allrouter.png)
 When the router finishes booting, you should see:
 
 ```text
@@ -267,7 +255,7 @@ vtysh
 ## Important FRR Commands
 
 ### View Neighbour Routers
-
+![Neighbour Show](images/Week4task2neighbour.png)
 ```text
 show ip ospf neighbor
 ```
@@ -294,6 +282,7 @@ Neighbor ID     Pri State           Dead Time Address         Interface
 ```text
 show ip ospf route
 ```
+![View OSPF Routes](images/week4task2routeshow.png)
 
 This shows routes learned dynamically through OSPF.
 
@@ -341,7 +330,7 @@ Where:
 ## Traceroute Testing
 
 Use traceroute from one host to another:
-
+![Traceroute Testing](images/week4task2allrouter.png)
 ```text
 traceroute 10.2.2.10
 ```
