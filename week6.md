@@ -84,7 +84,7 @@ bash
 
 ## 📸 Screenshots
 
-![Network Screenshot](images/ARP-Basics-12318537-HostA-Table2.png)
+![ARP TABLE](images/ARP-Basics-12318537-HostA-Table2.png)
 
 ---
 
@@ -209,11 +209,15 @@ Successful ping confirms:
 
 ## 📸 Screenshots
 
-/images/Default-Gateway-network.png
-/images/Default-Gateway-ping.png
+![Network](images/Default-Gateway-12318537-network.png)
 
----
+![HOST1](images/week6-task2host2.png)
 
+![HOST2](images/week6-task2host2.png)
+
+![HOST3](images/week6-task2host3.png)
+
+![HOST4](images/week6-task2host4.png)
 # ✅ Conclusion
 
 * ARP enables IP-to-MAC mapping within a LAN
