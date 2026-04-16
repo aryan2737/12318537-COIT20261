@@ -100,9 +100,12 @@ To allow multiple VLANs to pass through the same link to the router, I configure
 ```
 ovs-vsctl set port eth0 trunks=10,20
 ```
-![ovs-vsctl](images/switch.png)
+
+![Network Screenshot](images/Vlan-Basics-12318537-network.png) 
 
 ![ovs-vsctl](images/switch.png)
+
+![ovs-vsctl](images/task2.png)
 
 
 
