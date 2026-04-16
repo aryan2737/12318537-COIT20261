@@ -77,7 +77,7 @@ The output showed that the `eth0` interface was correctly assigned the IP addres
 ## Screenshots
 
 ### files
-![File](GNS3-Intro-Solution (1).gns3project)
+![File](/GNS3-Intro-Solution (1).gns3project)
 
 
 ### Network Topology
