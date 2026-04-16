@@ -14,9 +14,10 @@ To configure static IP addresses on Linux hosts using three different methods.
 
 ### File
 
-![week04 project](/Vlan-Basics-12318537.gns3project)
+![week02 project](/setting-ip-12318537.gns3project)
 
 ### Network Topology
+
 
 * 4 × Linux Hosts (Host A, Host B, Host C, Host D)
 * 1 × Ethernet Switch
