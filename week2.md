@@ -14,7 +14,7 @@ To configure static IP addresses on Linux hosts using three different methods.
 
 ### File
 
-
+![week04 project](/Vlan-Basics-12318537.gns3project)
 
 ### Network Topology
 
