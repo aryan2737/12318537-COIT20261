@@ -211,13 +211,15 @@ Successful ping confirms:
 
 ![Network](images/Default-Gateway-12318537-network.png)
 
-![HOST1](images/week6-task2host2.png)
+![HOST1](images/week6-task2host1.png)
 
 ![HOST2](images/week6-task2host2.png)
 
 ![HOST3](images/week6-task2host3.png)
 
 ![HOST4](images/week6-task2host4.png)
+
+![ROUTE SHOW](images/Week6task2route.png)
 # ✅ Conclusion
 
 * ARP enables IP-to-MAC mapping within a LAN
