@@ -7,6 +7,10 @@
 
 To configure static IP addresses on Linux hosts using three different methods.
 
+### File
+
+
+
 ### Network Topology
 
 * 4 × Linux Hosts (Host A, Host B, Host C, Host D)
@@ -15,7 +19,7 @@ To configure static IP addresses on Linux hosts using three different methods.
 
 ### Network Diagram
 
-![Network Topology](images/Setting-IP-12313596-network.png)
+![Network Topology](images/Setting-IP-12318537-network.png)
 
 ---
 
@@ -91,19 +95,13 @@ ip address show
 
 #### Host A Output
 
-![Host A IP](images/Setting-IP-12313596-host1.png)
+![Host A IP](images/Setting-IP-12318537-host1.png)
 
 #### Host B Output
 
-![Host B IP](images/Setting-IP-12313596-host2.png)
+![Host B IP](images/Setting-IP-12318537-host2.png)
 
-#### Host C Output
 
-![Host C IP](images/Setting-IP-12313596-host3.png)
-
-#### Host D Output
-
-![Host D IP](images/Setting-IP-12313596-host4.png)
 
 ---
 
@@ -127,7 +125,7 @@ Stop after at least 5 replies (Ctrl + C).
 
 #### Output Screenshot
 
-![Basic Ping](images/Ping-Basics-12313596-simple.png)
+![Basic Ping](images/Ping-Basics-12318537-simple.png)
 
 ---
 
@@ -139,7 +137,7 @@ ping 10.10.1.200
 
 #### Output Screenshot
 
-![Ping Error](images/Ping-Basics-12313596-error.png)
+![Ping Error](images/Ping-Basics-12318537-error.png)
 
 ---
 
@@ -151,7 +149,7 @@ ping -c 5 -i 0.5 -s 1000 10.10.1.97
 
 #### Output Screenshot
 
-![Ping Options](images/Ping-Basics-12313596-options.png)
+![Ping Options](images/ping-Basics-12318537-options.p)
 
 ---
 
