@@ -78,13 +78,13 @@ The output showed that the `eth0` interface was correctly assigned the IP addres
 
 ### Network Topology
 
-![Network Screenshot](images/GNS-Intro-12313596-network.png)
+![Network Screenshot](images/GNS-Intro-12318537-network.png)
 
 ---
 
 ### IP Address Verification
 
-![IP Address Screenshot](images/GNS-Intro-12313596-ipaddress.png)
+![IP Address Screenshot](images/GNS-Intro-12318537-ipaddress.png)
 
 ---
 
