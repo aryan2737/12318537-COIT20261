@@ -97,7 +97,7 @@ To configure default gateways and enable communication between different subnets
 
 ---
 
-![week05 project](/Default-Gateway-12318537.gns3project)
+![week06 project](/Default-Gateway-12318537.gns3project)
 
 ## 🌐 Network Topology
 
