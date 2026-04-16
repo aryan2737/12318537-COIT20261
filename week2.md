@@ -1,5 +1,10 @@
 
-# Setting-IP-12313596 and Ping Basics Report
+# Setting-IP-12318537 and Ping Basics Report
+
+* **Name:** Patel Aryankumar ramkrushnbhai
+* **Student ID:** 1238537
+* **Unit:** COIT20261
+* **Campus:** MELBOURNE
 
 ## Task 1: Setting Static IP Addresses
 
@@ -164,8 +169,6 @@ ping -c 5 -i 0.5 -s 1000 10.10.1.97
   * `-s` changes packet size
 
 ---
-
-## Conclusion
 
 * Static IPs were successfully configured using three different methods.
 * All hosts were able to communicate within the LAN.
