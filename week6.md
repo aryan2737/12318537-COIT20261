@@ -74,15 +74,6 @@ bash
 
 ---
 
-## 🧠 Key Learnings
-
-* ARP resolves IP addresses to MAC addresses automatically
-* Entries are created during communication
-* ARP entries expire over time
-* ARP operates in the background
-
----
-
 ## 📸 Screenshots
 
 ![ARP TABLE](images/ARP-Basics-12318537-HostA-Table2.png)
@@ -112,14 +103,6 @@ To configure default gateways and enable communication between different subnets
 ### 🖥️ Host Configuration Example
 
 File: /etc/network/interfaces
-
-bash
-auto eth0
-iface eth0 inet static
-    address 192.168.1.10
-    netmask 255.255.255.0
-    gateway 192.168.1.1
-    up sysctl net.ipv4.ip_forward=0
 
 
 ---
@@ -201,14 +184,6 @@ Successful ping confirms:
 
 ---
 
-## 🧠 Key Learnings
-
-* Default gateways allow communication outside a subnet
-* Routers must have IP forwarding enabled
-* Routing tables define packet paths
-* Inter-network communication requires proper configuration
-
----
 
 ## 📸 Screenshots
 
@@ -216,15 +191,6 @@ Successful ping confirms:
 
 ![HOST1](images/week6-task2host1.png)
 
-![HOST2](images/week6-task2host2.png)
-
-![HOST3](images/week6-task2host3.png)
-
 ![HOST4](images/week6-task2host4.png)
 
 ![ROUTE SHOW](images/Week6task2route.png)
-# ✅ Conclusion
-
-* ARP enables IP-to-MAC mapping within a LAN
-* Default gateways enable communication between networks
-* Proper IP, routing, and forwarding configuration is essential
